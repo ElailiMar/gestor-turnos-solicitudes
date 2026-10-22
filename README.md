@@ -19,10 +19,12 @@ Permite organizar las solicitudes, consultar su estado y registrar eventos relac
 
 ## Tecnologías utilizadas
 
-- C++
-- GTK 3
-- Biblioteca estándar de C++
-- Sistema de compilación mediante g++
+- **Lenguaje de programación:** C++17.
+- **Interfaz gráfica:** GTK 3.
+- **Estructuras de datos:** `std::vector`, `std::priority_queue` y `std::stack`.
+- **Herramientas de desarrollo:** GCC/G++ y Visual Studio Code.
+- **Sistema operativo de desarrollo:** Fedora Linux.
+- **Herramienta de inteligencia artificial:** ChatGPT, de OpenAI, utilizando el modelo GPT-6.
 
 ## Estructuras de datos
 
@@ -77,5 +79,9 @@ No se debe eliminar este archivo si se desea conservar los datos guardados.
 
 ## Uso de inteligencia artificial
 
-Porcentaje de código generado con ayuda de inteligencia artificial: 100 %.
+- **Herramienta utilizada:** ChatGPT (OpenAI).
+- **Modelo utilizado:** GPT-6.
+- **Porcentaje estimado de código generado con IA:** 100 %.
+
+La inteligencia artificial se utilizó como apoyo para la generación y modificación del código fuente, la resolución de errores, la implementación de funcionalidades y la elaboración de la documentación del proyecto. El código fue compilado y probado durante el desarrollo.
 
