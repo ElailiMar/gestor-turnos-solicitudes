@@ -9,8 +9,6 @@ El proyecto utiliza tres estructuras de datos lineales de la biblioteca estánda
 2. Cola de prioridad (`std::priority_queue`).
 3. Pila (`std::stack`).
 
-Cada estructura cumple una función diferente dentro de la aplicación.
-
 ## 2. Arreglo dinámico: std::vector
 
 ### ¿Qué es?
