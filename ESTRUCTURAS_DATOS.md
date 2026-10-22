@@ -134,9 +134,3 @@ Las estructuras anteriores se utilizan durante la ejecución del programa. Para 
 Al iniciar nuevamente la aplicación, los datos guardados se cargan para recuperar las solicitudes y el historial.
 
 Por tanto, las estructuras de datos organizan la información en memoria, mientras que el archivo permite conservarla entre ejecuciones.
-
-## 7. Conclusión
-
-El proyecto aplica tres estructuras de datos lineales con propósitos distintos: el arreglo dinámico almacena las solicitudes, la cola de prioridad determina el orden de atención y la pila mantiene los eventos del historial.
-
-La combinación de estas estructuras permite organizar las operaciones principales del Gestor de Turnos y Solicitudes.
